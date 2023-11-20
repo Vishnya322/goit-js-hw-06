@@ -27,4 +27,3 @@ const customer = {
   customer.addOrder(5000, "Steak");
   console.log(customer.getBalance());
   console.log(customer.getOrders()); 
-
